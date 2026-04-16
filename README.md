@@ -1,12 +1,18 @@
+# CHILALOSHOP - E-commerce Store
 
-  # Create Design
+This is a full-stack e-commerce application built with React, Vite, Node.js, Express, and Prisma.
 
-  This is a code bundle for Create Design. The original project is available at https://www.figma.com/design/DChivKclWddo0vE9x2ANBX/Create-Design.
+## Running the code
 
-  ## Running the code
+Run `npm i` to install the dependencies.
 
-  Run `npm i` to install the dependencies.
+Run `npm run dev` to start the development server.
 
-  Run `npm run dev` to start the development server.
-  Admin: admin@figmashop.com / admin123
-User: user@example.com / password123
+## Test Credentials
+
+- **Admin**: admin@figmashop.com / admin123
+- **User**: user@example.com / password123
+
+## Backend Setup
+
+See `BACKEND_SETUP.md` for backend configuration instructions.
